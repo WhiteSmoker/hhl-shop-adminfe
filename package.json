@@ -35,5 +35,8 @@
       "react-app",
       "react-app/jest"
     ]
+  },  
+  "engines": {
+    "node": "16.13.0"
   }
 }
